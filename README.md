@@ -1,4 +1,4 @@
-# Text Decoder
+# Decodificador de Texto
 
 Bem-vindo ao **Decodificador de textos**, um projeto que permite a você criptografar e descriptografar textos de forma simples e eficaz. Projeto proposto pela OracleNextEducation juntamente com a Alura.
 
